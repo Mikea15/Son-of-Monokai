@@ -1,13 +1,13 @@
 {
-    "title": "Monokai",
-    "name": "monokai-theme",
-    "description": "This dark theme is based on the monokai color scheme from Sublime Text.",
-    "version": "1.0.6",
-    "author": "Steffen Bruchmann <hi@sbruchmann.me> (http://sbruchmann.me/)",
-    "homepage": "https://github.com/Brackets-Themes/Monokai",
+    "title": "Son of Monokai",
+    "name": "son-of-monokai-theme",
+    "description": "This dark theme is based on the Steffen Bruchmann's monokai color scheme from Sublime Text",
+    "version": "0.1.0",
+    "author": "Michael Adaixo <michael.adaixo@gmail.com> (http://michaeladaixo.com/)",
+    "homepage": "https://github.com/Mikea15/Son-of-Monokai",
     "repository": {
         "type": "git",
-        "url": "git@github.com:Brackets-Theme/Monokai.git"
+        "url": "git@github.com:Brackets-Theme/Son-of-Monokai.git"
     },
     "license": "MIT",
     "engines": {
@@ -16,5 +16,6 @@
     "theme": {
         "file": "theme.css",
         "dark": true
-    }
+    },
+    "keywords": ["theme"]
 }
