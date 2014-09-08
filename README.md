@@ -12,6 +12,18 @@ This extension requires Brackets Release 42 or newer.
 3. Search for ‘Monokai’
 4. Click install
 
+Screenshots
+---
+
+### HTML
+![HTML](screenshots/html.png)
+
+### CSS
+![HTML](screenshots/css.png)
+
+### JavaScript
+![HTML](screenshots/js.png)
+
 License
 ---
 
