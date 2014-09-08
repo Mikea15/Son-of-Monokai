@@ -1,19 +1,6 @@
-Brackets Theme: Monokai
+Brackets Theme: Son of Monokai
 ===
 
-This theme is based on the _monokai_ color scheme from [Sublime Text](http://sublimetext.com/).
-
-Screenshots
----
-
-### HTML
-![HTML](screenshots/html.png)
-
-### CSS
-![HTML](screenshots/css.png)
-
-### JavaScript
-![HTML](screenshots/js.png)
 
 Installation
 ---
