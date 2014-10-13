@@ -3,17 +3,17 @@
  * ============
  */
 .cm-string {
-    color: #E6DB74;
+    color: #deef83;
 }
 
 .cm-error {
-    background: #F92672;
-    color: #F8F8F2 !important;
+    background: rgba(249, 38, 114, 0.61);
+    color: #fff !important;
 }
 
 .cm-meta,
 .cm-comment {
-    color: #8b8982;
+    color: #a0a0a0;
     font-style: italic;
 }
 
@@ -26,13 +26,13 @@
 .cm-property,
 .cm-attribute,
 .cm-keyword {
-    color: #618db2;
+    color: #57a2e2;
 }
 
 .cm-string.cm-property,
 .cm-variable,
 .cm-variable-2 {
-    color: #F8F8F2;
+    color: #fff;
 }
 
 .cm-variable-3,
@@ -42,7 +42,7 @@
 }
 
 .cm-def {
-    color: #F8F8F2;
+    color: #fff;
 }
 
 .cm-bracket {
@@ -64,8 +64,8 @@
  */
 .CodeMirror,
 .CodeMirror .CodeMirror-scroll {
-    background: #1c1c1c;
-    color: #F8F8F2;
+    background: #222;
+    color: #fff;
     font-weight: 500;
 }
 
@@ -85,13 +85,13 @@
 }
 
 div.CodeMirror-selected {
-    background: #303a3b !important;
+    background: rgba(0, 138, 255, 0.19) !important;
 }
 
 .CodeMirror-gutters {
-    background: #191919;
+    background: #1a1a1a;
     border-right: 0px;
-    box-shadow: 2px -2px 2px 2px #111;
+    box-shadow: 1px -1px 3px 3px #1a1a1a;
     height: 100%;
 }
 

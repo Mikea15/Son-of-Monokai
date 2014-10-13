@@ -1,8 +1,8 @@
 {
     "title": "Son of Monokai",
     "name": "son-of-monokai-theme",
-    "description": "This dark theme is based on the Steffen Bruchmann's monokai color scheme from Sublime Text",
-    "version": "0.1.1",
+    "description": "Monokai based Brackets theme. Bolder font. Italic comments. Other perks.",
+    "version": "0.1.2",
     "author": "Michael Adaixo <michael.adaixo@gmail.com> (http://michaeladaixo.com/)",
     "homepage": "https://github.com/Mikea15/Son-of-Monokai",
     "repository": {
@@ -17,5 +17,5 @@
         "file": "theme.css",
         "dark": true
     },
-    "keywords": ["theme"]
+    "keywords": ["theme", "dark"]
 }
