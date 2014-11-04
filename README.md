@@ -12,6 +12,14 @@ This extension requires Brackets Release 42 or newer.
 3. Search for ‘Monokai’
 4. Click install
 
+Use
+---
+On the menu bar go to 
+
+**View** > **Themes...**
+
+Set the **Current Theme** to **Son of Monokai**
+
 Screenshots
 ---
 
